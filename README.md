@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  Hardening Linux, Redes y automatización.<br />
+  Seguridad e infraestructura Linux, y las apps que corren arriba.<br />
   Si hace falta una herramienta, la escribo.
 </p>
 
@@ -40,15 +40,15 @@ Tres tools para un VPS que te pasaron y tenés que dejar sano:
 | | |
 | :--- | :--- |
 | **Hardening** | Dejar VPS y servidores firmes: SSH, privilegio mínimo, menos superficie |
+| **Desarrollo** | Apps y paneles web de punta a punta: API, base, front y deploy |
 | **Perímetro** | iptables / UFW, segmentación, ruido raro en logs |
 | **Automatización** | Scripts y reportes que dejan evidencia, no planillas eternas |
-| **Desarrollo** | Python, C#, PHP, SQL y lo que haga falta cuando hay que cerrar el hueco |
 
 ---
 
 ### Stack
 
-Linux, Docker, VPS, Redes, Python, C#, PHP, SQL, MySQL, PostgreSQL, Shell, Git.
+Linux, Docker, VPS, Redes, Python, JavaScript, C#, PHP, SQL, MySQL, PostgreSQL, Redis, Shell, Git, Cloudflare.
 
 Uso eso de base. Si el trabajo pide otra cosa, me meto y lo resuelvo igual.
 
