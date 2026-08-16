@@ -8,15 +8,22 @@ Desarrollador Full Stack. Bahía Blanca, Argentina.
 Frontend, backend y Linux.
 Sites, APIs y el VPS.
 
-## Qué hago
+## Sobre mí
 
-La interfaz, la API, la base y el server.
+Soy de Bahía Blanca. Arranqué de chico con las computadoras. Hoy hago la interfaz, la API, la base y el server. También escritorio en C# (WinForms).
 
-- JavaScript, C# / WinForms, PHP, Python
-- SQL, MySQL, PostgreSQL, Redis
-- Linux, Docker, Cloudflare
+[Enlace Sur](https://enlacesur.com.ar) es mi shop: desarrollo para clientes. Un sitio, un sistema, o el VPS donde corre.
 
-Desarrollo para clientes: [enlacesur.com.ar](https://enlacesur.com.ar)
+## Qué busco
+
+Un equipo en Argentina. Un puesto, no solo encargos. Quiero meterme en software que se mantiene: código, datos e infra.
+
+## Stack
+
+- Lenguajes: JavaScript, C#, PHP, Python
+- Escritorio: WinForms
+- Datos: SQL, MySQL, PostgreSQL, Redis
+- Infra: Linux, Docker, Cloudflare
 
 ## Proyectos
 
