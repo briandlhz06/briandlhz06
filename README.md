@@ -12,7 +12,7 @@ Sites, APIs y el VPS.
 
 La interfaz, la API, la base y el server.
 
-- JavaScript, C#, PHP, Python
+- JavaScript, C# / WinForms, PHP, Python
 - SQL, MySQL, PostgreSQL, Redis
 - Linux, Docker, Cloudflare
 
