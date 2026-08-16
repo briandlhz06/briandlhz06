@@ -1,8 +1,6 @@
 <div align="center">
   <img src="assets/banner.png" alt="Brian De La Hoz" width="720" />
 
-  <h3>Brian De La Hoz</h3>
-
   Desarrollador Full Stack. Bahía Blanca, Argentina.
 
   Frontend, backend y Linux.
