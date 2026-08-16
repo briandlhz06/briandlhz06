@@ -11,7 +11,7 @@
 
 ## Sobre mí
 
-Me enganché con las computadoras a los 8 y no lo solté. Desde entonces estoy en esto: jueguitos, sistemas de gestión interna, APIs, webs. Me apasiona armar sistemas que anden: lo que se ve, lo que responde atrás, la base y el server. Si hay que hacer un escritorio en WinForms, lo hago. Si hay que dejar un Linux en orden, también.
+Me enganché con las computadoras a los 6 años y no lo solté. Desde entonces estoy en esto: sistemas de gestión interna, APIs, webs. Me apasiona armar sistemas que anden: lo que se ve, lo que responde atrás, la base y el server. Si hay que hacer un escritorio en WinForms, lo hago. Si hay que dejar un Linux en orden, también.
 
 La UI sola no me alcanza. Quiero el sistema completo: que se vea bien, que responda, y que siga andando cuando ya no estoy encima.
 
@@ -27,7 +27,7 @@ Busco un equipo en Argentina. Un puesto. Quiero construir un producto que se man
 
 ## Qué traigo
 
-- Desde los 8: juegos, sistemas de gestión interna, APIs y webs. No arranqué ayer.
+- Desde los 6: sistemas de gestión interna, APIs y webs. No arranqué ayer.
 - Aprendí a entregar con los años: plazos, clientes, que quede andando.
 - Full stack: interfaz, API, base y server. También escritorio en WinForms.
 - Linux: diagnosticar un VPS, armar el plan, vigilar que no se desvíe.
